@@ -62,6 +62,7 @@ python3 cc_sim_crack.py
 # Run cc_sim_crack:
 
 python3 cc_sim_crack.py
+choose [1] option
 ENTER THE NUMBER OF VICTEM.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
 ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ```
