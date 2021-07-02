@@ -49,7 +49,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/cc-cybercracker-official/cc-sim-crack.git
+git clone https://github.com/cc-cybercracker-official/cc_sim_crack.git
 cd cc_sim_crack
 chmod +x requirement.sh
 bash requirement.sh
